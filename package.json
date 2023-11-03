@@ -18,7 +18,11 @@
         "vue": "^3.2.41"
     },
     "dependencies": {
+<<<<<<< HEAD
         "@vueuse/motion": "^2.0.0",
         "ziggy": "^2.4.0"
+=======
+        "@vueuse/motion": "^2.0.0"
+>>>>>>> c0d01cd6f4cd604420c9e8c2426dfb325f757bd2
     }
 }
